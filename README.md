@@ -1,1 +1,0 @@
-# tuma_customer
